@@ -1,97 +1,129 @@
-![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 
-<h1 align="center"> नमस्ते (Namaste), I'm Rajat Sethi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
-
-<h3 align="center">I'm a Tech Enthusiast from India ❤</h3>
-  
-<!-- A 19 Y/O Tech Enthusiast🎯 from India. I'm passionate about Full-Stack Web Development.:bar_chart:. I like automating things, building pipelines, exploring scalability problems and improving efficiency and performance. Strong Advocate for 📜 open source, :cloud: Cloud computing, 🚀 DevOps, :new: Innovation and Automation :robot:  -->
-
-A 2nd year student pursuing Bachelors's in Computer Science 🎓 from Chandigarh University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms skills 🤓.
-
-
-![age](https://img.shields.io/badge/age-19-blue)
-![focus](https://img.shields.io/badge/focus-FullStack-brightgreen)
-![living](https://img.shields.io/badge/living-Chandigarh-3c9)
-
-<img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-
-- 🌱 I’m currently learning Java and ReactJs
-- 👯 I’m looking to collaborate on Design projects and Basic Web Dev stuff
-- 📫 How to reach me: You may follow me on [Instagram](https://www.instagram.com/rajat_sethi28/) 
-- 😄 Pronouns: he/him/his
-- ⚡ Fun fact: Jack of all trades , Master of None ! 
-<br />
-<br />
-
-<div align="center">
-
-<h2 align="center">Technology Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>  
-<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/c++.png?raw=true" height="60" width="60">
-<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/python.png?raw=true" height="60" width="60">
-<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/JS.png?raw=true" height="60" width="60">
-<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/css.png?raw=true" height="60" width="60">
-<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/html.png?raw=true" height="60" width="60">
-
-<br>
-
-<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/postgres.png?raw=true" height="60" width="60">
-<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/git.png?raw=true" height="60" width="60">
-<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/vs.png?raw=true" height="60" width="60">
-<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/bootstrap.png?raw=true" height="60" width="60">
-<img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="60" height="60"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="60"
-
-</div>
-
-<br >
-
-<!-- <p align="center">
-  <a>
-    <img height="150" width="175" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/PNG/left.png">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajat-sethi28&theme=dark&hide_border=true"/>
-    <img height="150" width="175" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/PNG/right.png">
-  </a>
-</p> -->
-
-
-<h2 align="center">
-  My Github Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
-</h2>
-
-<img  src="https://github-readme-stats.vercel.app/api?username=rajatzz&show_icons=true&theme=radical" width="45%" align="right" >
-
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=rajatzz&theme=radical" width="45%" >
-
-<br>
-
-
-<h2 align="center">
-  My Contribution Graph <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="50">
-</h2>
+<!-- Header Image -->
 <p align="center">
-  <img src="https://github.com/rajatzz/rajatzz/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" />
 </p>
 
+<!-- Typing Intro -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&size=24&pause=1000&center=true&vCenter=true&width=480&lines=he://him+ • +designer;Design+%2B+AI+%3D+🤌; Designing+with+intention+and+motion;&color=ffffff" />
+</p>
+
+<!-- Hero Section -->
+<h1 align="center" style="font-family:Instrument Serif;">नमस्ते (Namaste), <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Rajat Sethi!</h1>
+<h3 align="center" style="font-family:Geist;">21 y/o · Self-taught Product Designer · Brains, Figma, No-Code & AI</h3>
+<p align="center">
+  <em>Believer of <a href="https://www.workingtheorys.com/p/make-something-heavy" target="_blank">making something heavy</a> 👨🏻‍🎨</em><br/>
+  <em>Currently vibing with creative coding, AI tools, & all things design 🍃</em>
+</p>
+
+---
+
+### 🧠 About Me
+
+- 🧍‍♂️ 21 y/o self-taught product designer  
+- 🧪 Crafting a magic mix of **design, AI**, and a whole lotta creativity  
+- 🎨 Designing in **Figma**, building ideas in **Framer**, exploring tools like **Visual Electric** & **Windursf**  
+- 🤖 My workflow is powered by **ChatGPT**, **Claude**, and a lot of coffee ☕  
+- ✨ I believe in design that *feels just right* — systems, motion, emotion  
+
+> I don’t code much, but I **design with purpose** — every screen has a story.
+
+---
+
+### 💻 Now  
+
+🎨 Polishing my design taste
+🔭 Exploring AI workflows and automation tools  
+🌱 Learning creative coding - p5.js, shaders, and WebGL experiments  
+🧠 Sharpening meta-skills for the post-AI era:  
+&nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;Thinking Clearly  
+&nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;First Principles Thinking  
+&nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;Systems Thinking  
+&nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;Writing to Think   
+&nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;Learning How to Learn  
+
+
+---
+
+### 🛠 Design Stack
+
 <div align="center">
 
-### Show some ❤️ by starring ⭐ some of the repositories!
- 
- <br/>
-
-<h2 align="center">Reach me on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
-
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/rajat-sethi28/)
-[<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">]()
-[<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/rajat.sethi.7731/)
-<!-- [<img src="https://img.shields.io/badge/stackoverflow-%231877F2.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white&color=orange">]()
-[<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">]() -->
-
-
-<!-- <a href="https://dev.to/rajatsethi28"><img height="50" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg"></a> -->
-
-<!-- Footer Not working -->
-<!-- <img src="https://drive.google.com/file/d/1KuHSWDgFyVN3YA8Q3Hdvk9dPuQ4Uj22F/view?usp=sharing" alt=""> -->
+  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue" />
+  <img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arc-000000?style=for-the-badge&logo=arc&logoColor=white" />
+  <img src="https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" />
+  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-111111?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/p5.js-ED225D?style=for-the-badge&logo=p5.js&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgaGVpZ2h0PSIxNnB4IiB2aWV3Qm94PSIwIDAgMjAgMjAiIHdpZHRoPSIxNnB4IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Ik0xMi4yMjIgMTIuMjIyTDIuNTU1IDIuNTU1bDE1Ljg4OS0yLjIyMi0yLjIyMiAxNS44ODl6Ii8+PC9zdmc+" />
 
 </div>
 
 ---
+
+### 🧘 Design Ritual
+
+```bash
+> ritual.sh
+🎧 Lofi → ✏️ Notes → 🎨 Figma → ☕ Break → 🔁 Iterate → ✨ Ship
+```
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sethihq&show_icons=true&theme=radical" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sethihq&theme=radical" width="48%" />
+</p>
+
+---
+
+### 🐍 Contributions Crawling in Style
+
+<p align="center">
+  <img src="https://github.com/rajatzz/rajatzz/raw/output/github-contribution-grid-snake.svg" alt="snake" />
+</p>
+
+---
+
+<h2 align="left">Reach me on <img align = "center"  src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="20"></h2>
+
+<p align="center">
+  <a href="https://twitter.com/sethiHQ" target="_blank">
+    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/sethihq/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://rajatsethi.framer.website" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 👨‍💻 Terminal Outro
+
+```bash
+> rajat@figma:~$ whoami
+> Product Designer • No-Code Hacker • AI Whisperer
+
+> rajat@figma:~$ echo "Good design?"
+> "As little design as possible." – Dieter Rams
+
+> rajat@figma:~$ echo "Hello, world!"
+> Rendering rajat.fig
+> Rendering rajat's PFP in hi-fi 🖼️ ...
+
+> rajat@figma:~$ echo "Error:"
+> "PFP not found."
+
+> rajat@figma:~$ exit
+```
