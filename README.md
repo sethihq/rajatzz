@@ -102,7 +102,7 @@
   <a href="https://www.linkedin.com/in/sethihq/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://rajatsethi.framer.website" target="_blank">
+  <a href="https://rajatsethi.live/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </p>
