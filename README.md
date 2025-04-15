@@ -6,7 +6,9 @@
 
 <!-- Typing Intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&size=24&pause=1000&center=true&vCenter=true&width=480&lines=he://him+ • +designer;Design+%2B+AI+%3D+🤌; Designing+with+intention+and+motion;&color=ffffff" />
+  
+<img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&size=24&pause=1000&center=true&vCenter=true&width=480&color=ffffff&lines=he%2Fhim+%E2%80%89%E2%80%A2%E2%80%89+designer;Design+%2B+AI+%3D+%F0%9F%A4%8C;Designing+with+intention+and+motion" />
+  
 </p>
 
 <!-- Hero Section -->
