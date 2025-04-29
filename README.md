@@ -4,7 +4,7 @@
 </p> -->
 
 
-# <p  align="center"> ![visitor counter](https://count.getloli.com/@:view-counter?name=%3Aview-counter&theme=booru-lisu&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=auto&num=40)</p>
+# <p  align="center"> ![visitor counter](https://count.getloli.com/@sethihq?name=sethihq&theme=booru-lisu&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=auto&num=40)</p>
 
 
 <!-- Typing Intro -->
